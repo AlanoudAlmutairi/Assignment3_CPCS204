@@ -10,10 +10,7 @@ import java.io.PrintWriter;
 import java.util.Scanner;
 
 /**
-Name : Alanoud Owaed Almutairi
-* ID : 2105088
-* Email :AHEMIJANALMUTAIRI@stu.kau.edu.sa
-* Section :B8B
+Name : Alanoud 
 * course : CPCS-204
 * date :11-nov- 2022
 * Title :Uber System
